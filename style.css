@@ -1,0 +1,26 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: mediumturquoise;
+}
+
+#mc
+{
+    background-color: rgb(152, 192, 255);
+}
+
+#mc img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : rgb(255, 53, 53);
+    font-size: 20px;
+}
